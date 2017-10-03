@@ -62,7 +62,12 @@ Git par la pratique
         git pull https://github.com/nomducollegue/TP02.git nomdesabranche
 
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
+<<<<<<< HEAD
 
 * Alexandre Chau
 
 * Roman Leyrat
+=======
+*Roman Leyrat
+*Alexandre Chau
+>>>>>>> abfe7536ff97b3663ffc03be0f2da58852aaed54
